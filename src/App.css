@@ -1,0 +1,26 @@
+/* Custom transitions for buttons */
+.btn-primary {
+  background-color: #3498db;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #2980b9;
+  transition: background-color 0.3s ease;
+}
+
+.btn-danger {
+  background-color: #e74c3c;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #c0392b;
+  transition: background-color 0.3s ease;
+}
+
+/* Customize table row hover effect */
+.table-striped tbody tr:hover {
+  background-color: #f1f1f1;
+  transition: background-color 0.2s ease;
+}
