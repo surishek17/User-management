@@ -4,12 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Firstly, In the project directory, you can run the following command to install the "node-modules":
+### `npm install`
 
+And then In the project directory, you can run:
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This will start the development server, and it will automatically open the application in your default web browser at http://localhost:3000.
+
+You should now see the user management app running, and you can interact with it, such as viewing, adding, updating, and deleting users.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
